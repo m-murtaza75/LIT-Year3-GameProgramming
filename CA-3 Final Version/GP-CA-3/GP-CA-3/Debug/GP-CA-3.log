@@ -1,0 +1,144 @@
+﻿  Bullet.cpp
+  CreateBackground.cpp
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createbackground.cpp(54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CreateHorde.cpp
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\createhorde.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ExtractTopScores.cpp
+  Pickup.cpp
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\pickup.cpp(39): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\pickup.cpp(40): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\pickup.cpp(68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\pickup.cpp(126): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\pickup.cpp(130): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(8): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(9): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(24): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(25): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(186): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(191): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(196): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(201): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(215): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\player.cpp(221): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TextureHolder.cpp
+  Zombie.cpp
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombie.cpp(66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombie.cpp(176): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombie.cpp(181): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombie.cpp(194): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombie.cpp(199): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombie.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ZombieArena.cpp
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombiearena.cpp(37): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombiearena.cpp(38): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombiearena.cpp(40): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\mmurt\desktop\desktop folders\ca3-zombie\ca-3 final version\gp-ca-3\gp-ca-3\code\zombiearena.cpp(957): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ZombieBullet.cpp
+  Generating Code...
+  GP-CA-3.vcxproj -> C:\Users\mmurt\Desktop\Desktop Folders\ca3-zombie\CA-3 Final Version\GP-CA-3\Debug\GP-CA-3.exe
